@@ -14,7 +14,7 @@ width="60" height="70">
 
 - 🌱 I’m currently learning **Python, Penetration Testing, OSINT etc**  
   
-- 👨‍💻 All of my projects are available [Here on Github](https://github.com/ic3man31)  
+- 👨‍💻 All of my projects are available [here on Github](https://github.com/ic3man31?tab=repositories)  
   
 - 📫 How to reach me **ic3man.jed1@gmail.com**  
   
