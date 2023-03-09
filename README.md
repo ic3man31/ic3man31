@@ -1,7 +1,7 @@
 <img src="https://www.skwigly.co.uk/wp-content/uploads/2017/05/Bruce_Lee_Skwigly.gif" width="100%" height="auto">
 
 <h1 align="center">Hey, I'm John  ❄️ </h1>  
-<h3 align="center">A Cyber Security Specialist and a Bboy --
+<h3 align="center">A Cyber Security Specialist and a Bboy 
 <img src="https://media.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif" width="30" height="30" />
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19947f4e-cda7-4d8c-a9de-bd3f68ac3aa1/d8wp0wl-de112751-ae24-44e9-9f56-602ecc8b5e7d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE5OTQ3ZjRlLWNkYTctNGQ4Yy1hOWRlLWJkM2Y2OGFjM2FhMVwvZDh3cDB3bC1kZTExMjc1MS1hZTI0LTQ0ZTktOWY1Ni02MDJlY2M4YjVlN2QuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.A05KLxemFEt4GNicJKSh13lwGajtvUq69sSFakE_Ar0" alt="Bboy GIF"
 width="40" height="70">
