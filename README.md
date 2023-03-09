@@ -10,7 +10,7 @@ width="60" height="70">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ic3man31&label=Profile%20views&color=0e75b6&style=flat" alt="ic3man31" /> </p>
-<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/116488/screenshots/1653824/media/ee27ad56bda4019488994d7edfb302e1.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif">
 
 - 🌱 I’m currently learning **Python, Penetration Testing, OSINT etc**  
   
